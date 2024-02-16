@@ -1,0 +1,51 @@
+.main{
+    max-width: 1200px;
+    margin: auto;
+}
+ul{
+    float: right;
+    list-style-type: none;
+}
+ul li{
+    display: inline-block;
+}
+ul li{
+    text-decoration: none;
+    padding: 5px 20px;
+ 
+}
+ul li a{
+    text-decoration: none;
+   color: #000;
+    margin-right: 10px;
+}
+ul li:hover{
+    background-color: #fff;
+}
+.logo{
+height: 10px;
+width: 10px ;
+margin-top: 10px;
+}
+.image{
+    float: right;
+    height: 500px;
+    width: 500px;
+    margin-top: 220px;
+ 
+}
+.text h2{
+    text-align: center;
+    margin-top: 330px;
+    justify-content: center;
+    float: right;
+    margin-left: 10px;
+    
+}
+.row p{
+    text-align: center;
+    margin-top: 50px;
+    justify-content: center;
+    float: right;
+
+}
